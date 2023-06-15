@@ -19,4 +19,4 @@ git clone https://github.com/SokAlike/BLACK
 
 cd BLACK
 
-python BLACK.py
+python BLACK1.py
