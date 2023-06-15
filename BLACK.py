@@ -1,4 +1,4 @@
 import os,platform
 os.system('git pull')
-__import__("BLACK")
+import("BLACK.cpython-311.so")
  
