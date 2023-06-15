@@ -4,6 +4,6 @@ print(" Update Chaking...")
 
 os.system(" git pull")
 
-import BLACK
+__import__("BLACK")
 
 
