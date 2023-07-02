@@ -1,5 +1,5 @@
 # BLACK
-Hello I am is Sokheng FREE Tool BLACK
+Hello I am is Sokheng FREE Tool KKJ
 
 pkg update
 
@@ -13,10 +13,10 @@ pip install requests
 
 pip install mechanize
 
-rm -rf BLACK
+rm -rf KKJ
 
-git clone https://github.com/SokAlike/BLACK
+git clone https://github.com/SokAlike/KKJ
 
-cd BLACK
+cd KKJ
 
-python BLACK1.py
+python KKJ.py
